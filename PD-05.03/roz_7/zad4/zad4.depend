@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1615473352 source:c:\users\kox\documents\studia\prog_struk\pd_05.03\roz_7\zad4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
